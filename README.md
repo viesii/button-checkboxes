@@ -1,5 +1,5 @@
 # "On/Off" buttons using checkbox
-
+![example](https://cl.ly/be91e511ccb1/Image%202019-01-21%20at%204.34.10%20PM.png)
 Original: https://codepen.io/aaroniker/pen/oaQdQZ
 
 ### Installation
